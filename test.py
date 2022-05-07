@@ -5,7 +5,7 @@ from keras.models import load_model
 import time,os,json
 import glob
 from PIL import ImageFont,ImageDraw,Image
-language_dir="C:/Users/user/Desktop/동규/캡스톤 프로젝트 정리/004.수어_영상_sample/라벨링데이터/morpheme/"
+language_dir="004.수어_영상_sample/라벨링데이터/morpheme/"
 actions = []
 duration=[]
 language_list=os.listdir(language_dir)
@@ -28,7 +28,7 @@ hands = mp_hands.Hands(
     min_detection_confidence=0.5,
     min_tracking_confidence=0.5)
 
-video_dir="C:/Users/user/Desktop/동규/캡스톤 프로젝트 정리/004.수어_영상_sample/테스트용/*.mp4"
+video_dir="004.수어_영상_sample/테스트용/*.mp4"
 
 
 # w = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
