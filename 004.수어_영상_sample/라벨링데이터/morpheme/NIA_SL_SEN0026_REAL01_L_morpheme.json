@@ -1,0 +1,28 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0228/NIA_SL_SEN0026_REAL01_L.mp4",
+        "name": "NIA_SL_SEN0026_REAL01_L.mp4",
+        "duration": 5.317,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 2.06,
+            "end": 2.56,
+            "attributes": [
+                {
+                    "name": "말해주다"
+                }
+            ]
+        },
+        {
+            "start": 2.588,
+            "end": 3.62,
+            "attributes": [
+                {
+                    "name": "잘못"
+                }
+            ]
+        }
+    ]
+}

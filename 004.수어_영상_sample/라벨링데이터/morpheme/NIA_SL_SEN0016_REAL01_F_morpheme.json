@@ -1,0 +1,22 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0227/NIA_SL_SEN0016_REAL01_F.mp4",
+        "name": "NIA_SL_SEN0016_REAL01_F.mp4",
+        "duration": 3.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.42,
+            "end": 2.615,
+            "attributes": [
+                {
+                    "name": "급하다",
+                    "attribute": [
+                        "1형태소 의문사 없는 의문형"
+                    ]
+                }
+            ]
+        }
+    ]
+}

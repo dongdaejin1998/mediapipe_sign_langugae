@@ -1,0 +1,28 @@
+{
+    "metaData": {
+        "url": "https://blackolivevideo.blob.core.windows.net/sign-language/1029_bkyu0227/NIA_SL_SEN0017_REAL01_L.mp4",
+        "name": "NIA_SL_SEN0017_REAL01_L.mp4",
+        "duration": 4.884,
+        "exportedOn": "2020/12/10"
+    },
+    "data": [
+        {
+            "start": 1.42,
+            "end": 2.023,
+            "attributes": [
+                {
+                    "name": "약속"
+                }
+            ]
+        },
+        {
+            "start": 2.154,
+            "end": 3.319,
+            "attributes": [
+                {
+                    "name": "늦다"
+                }
+            ]
+        }
+    ]
+}
